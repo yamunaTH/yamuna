@@ -24,6 +24,7 @@
   -A basic application that allows users to add, update, delete, and view student records efficiently.
 
 # Contact Me
- **Email**: yamunahraju2006@gmail.com 
+ **Email**: yamunahraju2006@gmail.com <br>
  **LinkedIn**:https://www.linkedin.com/in/yamunaTH/
+ <br>
  **GitHub Repo**:https://github.com/yamunaTH
