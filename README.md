@@ -1,9 +1,8 @@
 # I'm Yamuna
-
  2nd Year BCA Student  
  Interested in Web Development & Python  
  Currently learning JavaScript  
- From Karnataka, India  
+ From Tumkur,Karnataka
 
 # Skills
 **Programming languages**
