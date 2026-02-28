@@ -21,7 +21,7 @@
 
 # Projects
 **Student Management System**
-  A basic application that al**lows users to add, update, delete, and view student records efficiently.
+  -A basic application that allows users to add, update, delete, and view student records efficiently.
 
 # Contact Me
  **Email**: yamunahraju2006@gmail.com 
