@@ -27,4 +27,4 @@
  **Email**: yamunahraju2006@gmail.com <br>
  **LinkedIn**:https://www.linkedin.com/in/yamunaTH/
  <br>
- **GitHub Repo**:https://github.com/yamunaTH
+ **GitHub**:https://github.com/yamunaTH
