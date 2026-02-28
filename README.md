@@ -19,6 +19,9 @@
 **Tools**
   -VS code
 
+# Certifications
+  -Introduction to CyberSecurity-Cisco Networking Academy
+
 # Projects
 **Student Management System**
   -A basic application that allows users to add, update, delete, and view student records efficiently.
