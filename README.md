@@ -6,18 +6,18 @@
  From Karnataka, India  
 
 # Skills
---Programming languages
+#Programming languages
   -c
   -python
   -java
   
---Web Development
+#Web Development
   -HTML
   
---Database
+#Database
   -SQL
   
---Tools
+#Tools
   -VS code
 
 # Projects
