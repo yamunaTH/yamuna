@@ -21,7 +21,7 @@
 
 # Certifications
   -Introduction to CyberSecurity-Cisco Networking Academy
-  https://introduction-to-cybersecurity.pdf
+  https://github.com/yamunaTH/yamuna/blob/main/introduction-to-cybersecurity.pdf
 
 # Projects
 **Student Management System**
