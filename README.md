@@ -22,7 +22,7 @@
 # Certifications
   -Introduction to CyberSecurity-Cisco Networking Academy
   [view certificate]
-  Introduction-to-cybersecurity.pdf
+  (Introduction-to-cybersecurity.pdf)
 
 # Projects
 **Student Management System**
