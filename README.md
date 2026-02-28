@@ -6,25 +6,25 @@
  From Karnataka, India  
 
 # Skills
-#Programming languages
+**Programming languages**
   -c
   -python
   -java
   
-#Web Development
+**Web Development**
   -HTML
   
-#Database
+**Database**
   -SQL
   
-#Tools
+**Tools**
   -VS code
 
 # Projects
--Student Management System
-  A basic application that allows users to add, update, delete, and view student records efficiently.
+**Student Management System**
+  A basic application that al**lows users to add, update, delete, and view student records efficiently.
 
 # Contact Me
-- Email: yamunahraju2006@gmail.com
-- LinkedIn:https://www.linkedin.com/in/yamunaTH/
-- GitHub Repo:https://github.com/yamunaTH
+ **Email**: yamunahraju2006@gmail.com
+ **LinkedIn**:https://www.linkedin.com/in/yamunaTH/
+ **GitHub Repo**:https://github.com/yamunaTH
