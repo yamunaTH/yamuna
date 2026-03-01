@@ -1,8 +1,8 @@
 # YAMUNA
-  BCA Student
-  VidyaVahini First Grade College
-  Email: yamunahraju2006@gmail.com
-  Phone:9740206187
+  BCA Student <br>
+  VidyaVahini First Grade College <br>
+  Email: yamunahraju2006@gmail.com <br>
+  Phone:9740206187 <br>
 
 # About me
   I am a motivated 2nd year BCA student with a strong interest in web development and programming.
@@ -10,7 +10,7 @@
   My goal is to become a skilled software developer and contribute to innovative projects.
 
 # Education
- ** Bachelor of Computer Applications(BCA)**
+ **Bachelor of Computer Applications(BCA):** <br>
  VidyaVahini First Grade College
  2024-2027
 
@@ -43,7 +43,7 @@
 
 # Contact Me
  **Email**: yamunahraju2006@gmail.com <br>
- **Phone**:9740206187
+ **Phone**:9740206187 <br>
  **LinkedIn**:https://www.linkedin.com/in/yamunaTH/
  <br>
  **GitHub**:https://github.com/yamunaTH
