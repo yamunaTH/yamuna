@@ -11,7 +11,7 @@
 
 # Education
  **Bachelor of Computer Applications(BCA):** <br>
- VidyaVahini First Grade College
+ VidyaVahini First Grade College <br>
  2024-2027
 
 # Technical Skills
@@ -34,7 +34,7 @@
   https://github.com/yamunaTH/yamuna/blob/main/introduction-to-cybersecurity.pdf
 
 # Strengths
-  -Problem-solving ability
+  -Problem-solving ability <br>
   -Teamwork
 
 # Projects
