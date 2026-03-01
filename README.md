@@ -35,7 +35,9 @@
 
 # Strengths
   -Problem-solving ability <br>
-  -Teamwork
+  -Teamwork <br>
+  -Hardworking and dedicated <br>
+  -positive attitude
 
 # Projects
 **Student Management System**
