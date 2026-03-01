@@ -1,10 +1,20 @@
-# I'm Yamuna
- 2nd Year BCA Student  
- Interested in Web Development & Python  
- Currently learning JavaScript  
- From Tumkur,Karnataka
+# YAMUNA
+  BCA Student
+  VidyaVahini First Grade College
+  Email: yamunahraju2006@gmail.com
+  Phone:9740206187
 
-# Skills
+# About me
+  I am a motivated 2nd year BCA student with a strong interest in web development and programming.
+  I enjoy building websites and learning new technologies.
+  My goal is to become a skilled software developer and contribute to innovative projects.
+
+# Education
+ ** Bachelor of Computer Applications(BCA)**
+ VidyaVahini First Grade College
+ 2024-2027
+
+# Technical Skills
 **Programming languages**
   -c
   -python
@@ -23,12 +33,17 @@
   -Introduction to CyberSecurity-Cisco Networking Academy
   https://github.com/yamunaTH/yamuna/blob/main/introduction-to-cybersecurity.pdf
 
+# Strengths
+  -Problem-solving ability
+  -Teamwork
+
 # Projects
 **Student Management System**
   -A basic application that allows users to add, update, delete, and view student records efficiently.
 
 # Contact Me
  **Email**: yamunahraju2006@gmail.com <br>
+ **Phone**:9740206187
  **LinkedIn**:https://www.linkedin.com/in/yamunaTH/
  <br>
  **GitHub**:https://github.com/yamunaTH
