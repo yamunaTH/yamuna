@@ -31,7 +31,8 @@
 
 # Certifications
   -Introduction to CyberSecurity-Cisco Networking Academy
-  https://github.com/yamunaTH/yamuna/blob/main/introduction-to-cybersecurity.pdf
+  
+https://drive.google.com/file/d/1CYfuGdKTx-7nxLZFyXAPssC6Lljvcih6/view?usp=drivesdk
 
 # Strengths
   -Problem-solving ability <br>
