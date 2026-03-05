@@ -15,11 +15,12 @@
  2024-2027
 
 **Pre-University Education:** <br>
-Sri Sapthagiri PU College 
+Sri Sapthagiri PU College <br>
 APR 2024
 
-**SSLC:**<br>
-Sri Siddaganga High School
+**SSLC:** <br>
+Sri Siddaganga High School <br>
+2022
 
 # Technical Skills
 **Programming languages**
