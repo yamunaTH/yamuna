@@ -14,7 +14,7 @@
  VidyaVahini First Grade College <br>
  2024-2027
 
-**Pre-University Education:**SCBA <br>
+**Pre-University Education:** <br>
 Sri Sapthagiri PU College 
 APR 2024
 
