@@ -36,6 +36,9 @@ Sri Siddaganga High School <br>
   
 **Tools**
   -VS code
+  -pycharm
+  -eclipse
+  -sql+
 
 # Certifications
   -Introduction to CyberSecurity-Cisco Networking Academy
