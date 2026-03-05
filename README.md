@@ -23,21 +23,21 @@ Sri Siddaganga High School <br>
 2022
 
 # Technical Skills
-**Programming languages**
-  -c
-  -python
+**Programming languages** <br>
+  -c <br>
+  -python <br>
   -java
   
-**Web Development**
+**Web Development** <br>
   -HTML
   
-**Database**
+**Database** <br>
   -SQL
   
-**Tools**
-  -VS code
-  -pycharm
-  -eclipse
+**Tools** <br>
+  -VS code <br>
+  -pycharm <br>
+  -eclipse <br>
   -sql+
 
 # Certifications
