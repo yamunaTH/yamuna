@@ -59,6 +59,6 @@ https://drive.google.com/file/d/1CYfuGdKTx-7nxLZFyXAPssC6Lljvcih6/view?usp=drive
 # Contact Me
  **Email**: yamunahraju2006@gmail.com <br>
  **Phone**:9740206187 <br>
- **LinkedIn**:www.linkedin.com/in/
+ **LinkedIn**:https://www.linkedin.com/in/yamuna-th-0331aa3b4
  <br>
  **GitHub**:https://github.com/yamunaTH
